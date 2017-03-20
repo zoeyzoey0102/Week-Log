@@ -22,7 +22,7 @@ Imagine's status:
 
 1. Workout 3 times: Done. 5.29km + 5.62km + 5.16km.
 2. Book on interested topic: Done. 《法的门前》
-3. 1 book on computer science: Done.《离散数学及其应用》
+3. 1 book on computer science: Done.《离散数学及其应用》(Done last week)
 4. till next week.
 
 zoeyzoey's status: 
@@ -37,8 +37,10 @@ Imagine's status:
 
 1. Workout 3 times: Done. 6.1km + 6.5km + 5.0km.
 2. Book on interested topic: Done. 《射雕英雄传》
-3. 1 book on computer science: till next week.
+3. 1 book on computer science: Delay to  next week. **10-Yuan punishment for delay**
 4. 1 essay: [http://imagineonline.site/post/%E7%9D%A1%E8%A7%89/] 
+
+
 
 zoeyzoey's status: 
 
