@@ -25,7 +25,8 @@ Imagine's status:
 Zoey's status: 
 
 1.  Github touraround: done
-2.  Cards: done
+2.  Cards: done  
+*****
 
 **Week 2 from 3.13.2017 to 3.19.2017**    
 
@@ -53,6 +54,7 @@ Zoey's status:
 2. Cards: delayed to next week
 3. Articles & Card Kit: done
 4. Cards on Implicit Learning  
+*****
 
 **Week 3 from 3.21.2017 to 3.26.2017**    
 
@@ -63,5 +65,4 @@ Imagine's resolution:
 Zoey's resolution:
 
 1. Work on a 20-min speech slide for on-campus new hirings  
-2. 
-2. 
+2. Finish up on cards re: 《这才是心理学》Chapter 6
