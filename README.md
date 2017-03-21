@@ -65,4 +65,5 @@ Imagine's resolution:
 Zoey's resolution:
 
 1. Work on a 20-min speech slide for on-campus new hirings  
-2. Finish up on cards re: 《这才是心理学》Chapter 6
+2. Finish up on cards re: 《这才是心理学》Chapter 6  
+3. Close issue on “如何评价佟振保这个人物”
