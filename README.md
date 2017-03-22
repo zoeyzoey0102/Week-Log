@@ -32,7 +32,7 @@ Zoey's status:
 
 Imagine's resolution:    
 
-
+Same as last week.
 
 
 Zoey's resolution:  
@@ -60,7 +60,10 @@ Zoey's status:
 
 Imagine's resolution:  
 
-
+1. Workout 3 times.
+2. Book on interested topic: 《论犯罪与刑罚》Optional.
+3. 1 book on computer science: 《C和指针》
+4. 1 essay.
 
 Zoey's resolution:
 
