@@ -70,3 +70,24 @@ Zoey's resolution:
 1. Work on a 20-min speech slide for on-campus new hirings  
 2. Finish up on cards re: 《这才是心理学》Chapter 6  
 3. Close issue on “如何评价佟振保这个人物”
+
+Imagine's status:
+
+1. Workout 3 times: Done. 5.3km + indoor exercise + 10.5km + mountain hiking.
+2. Book on interested topic: Done. 《论犯罪与刑罚》
+3. 1 book on computer science: Delay to  next week. **20-Yuan punishment for delay**
+4. 1 essay: [http://imagineonline.site/post/%E6%83%85%E5%A2%83%E5%88%B6%E9%80%A0-%E6%83%B3%E8%B1%A1/] 
+
+Zoey's status: 
+*****
+
+**Week 4 from 3.27.2017 to 4.2.2017**    
+
+Imagine's resolution:  
+
+1. Workout 3 times.
+2. Book on interested topic: Optional.
+3. 1 book on computer science: 《C和指针》
+4. 1 essay: Optional.
+
+Zoey's resolution:
