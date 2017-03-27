@@ -78,7 +78,11 @@ Imagine's status:
 3. 1 book on computer science: Delay to  next week. **20-Yuan punishment for delay**
 4. 1 essay: [http://imagineonline.site/post/%E6%83%85%E5%A2%83%E5%88%B6%E9%80%A0-%E6%83%B3%E8%B1%A1/] 
 
-Zoey's status: 
+Zoey's status:   
+
+1. Campus recruitment speech smoothly done. thx so much for your coffee Imagine:)
+2. Cards done. https://github.com/zoeyzoey0102/General-Education/issues/1#issue-213600629
+3. I've decided to leave all issues in the Writing repository open for better visibility. To me, the topic on 佟振保 has been well explored as of now. https://github.com/zoeyzoey0102/A-Liberal-Who-Writes/issues/3
 *****
 
 **Week 4 from 3.27.2017 to 4.2.2017**    
@@ -91,3 +95,34 @@ Imagine's resolution:
 4. 1 essay: Optional.
 
 Zoey's resolution:
+
+1. Run 1 time. squat 3 times.
+2. Card re: 老阳“创造者时间管理法”的启示
+3. 刷卡包：开智大会-3 & 通识部落-9
+
+Imagine's status:         
+     
+     
+     
+     
+
+
+Zoey's status:        
+     
+      
+      
+
+
+*****
+
+**Per cordial discussion, Imagine and Zoey have agreed on a shared reading list for April 2017**        
+**Topic: How to Decide**       
+**Schedule:**       
+**Week 5: 《马奇论管理》**            
+**Week 6: 《适应性思维》**             
+**Week 7: 《如何作出正确决策》**        
+**Week 8: TBD**  
+*****
+
+**Week 5 from 4.3.2017 to 4.9.2017** 
+
