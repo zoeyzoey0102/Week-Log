@@ -58,7 +58,7 @@ Zoey's status:
 
 **Week 3 from 3.21.2017 to 3.26.2017**    
 
-Imagine's resolution:  
+Imagine's resolution: 
 
 1. Workout 3 times.
 2. Book on interested topic: 《论犯罪与刑罚》Optional.
@@ -85,9 +85,10 @@ Zoey's status:
 3. I've decided to leave all issues in the Writing repository open for better visibility. To me, the topic on 佟振保 has been well explored as of now. https://github.com/zoeyzoey0102/A-Liberal-Who-Writes/issues/3
 *****
 
-**Week 4 from 3.27.2017 to 4.2.2017**    
+**Week 4 from 3.27.2017 to 4.2.2017**       
+Offline Meetup with Newbies   
 
-Imagine's resolution:  
+Imagine's resolution:  
 
 1. Workout 3 times.
 2. Book on interested topic: Optional.
@@ -100,7 +101,10 @@ Zoey's resolution:
 2. Card re: 老阳“创造者时间管理法”的启示
 3. 刷卡包：开智大会-3 & 通识部落-9
 
-Imagine's status:         
+Imagine's status:        
+
+
+
      
      
      
@@ -108,11 +112,9 @@ Imagine's status:
 
 
 Zoey's status:        
-     
-      
-      
-
-
+1. Squats-done.Running-oops, didn't make it :[      
+2. Cards on 科学哲学、自然科学和社科的分野 https://github.com/zoeyzoey0102/Liberal-Arts/issues/5
+3. 刷卡包-done. impressive sessions: 2016开智大会-陈楸帆：告别史波克；郝景芳-宇宙与人的意义；安猪-用时间来思考；开智对谈：我所理解的美与好奇；     开智社群直播-凋寒：写作耳感
 *****
 
 **Per cordial discussion, Imagine and Zoey have agreed on a shared reading list for April 2017**        
@@ -126,3 +128,16 @@ Zoey's status:
 
 **Week 5 from 4.3.2017 to 4.9.2017** 
 
+Imagine's resolution:         
+
+
+
+
+
+
+
+Zoey's resolution:   
+1. 精读《马奇论管理》第一部分：马奇论决策制定，写3张卡片
+2. 整理老阳关于时间管理的建议：暗时间利用、创造者时间管理法、心流时间>时间管理、番茄钟-专注+休息简单二元法、多相睡眠    
+3. 《科学史》看着玩，找剩下问题的解答（线索）     
+4. 认知写作班Sunday Meetup
