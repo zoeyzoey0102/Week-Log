@@ -103,13 +103,10 @@ Zoey's resolution:
 
 Imagine's status:        
 
-
-
-     
-     
-     
-     
-
+1. Workout 3 times. 6.55km + 7.8km + indoor sports.
+2. Book on interested topic: Optional. Negative.
+3. 1 book on computer science: 《C和指针》.**40-Yuan punishment for delay**
+4. 1 essay: Optional. Negative.
 
 Zoey's status:        
 1. Squats-done.Running-oops, didn't make it :[      
@@ -130,11 +127,9 @@ Zoey's status:
 
 Imagine's resolution:         
 
-
-
-
-
-
+1. Sleep well & get up early at 7 for more than 3 days.
+2. Workout 2 times. 
+3. 《马奇论管理》选读
 
 Zoey's resolution:   
 1. 精读《马奇论管理》第一部分：马奇论决策制定，写3张卡片
