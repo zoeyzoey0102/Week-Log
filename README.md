@@ -139,8 +139,9 @@ Zoey's resolution:
 
 Imagine's status:       
 
-
-
+1. Done. Actually every morning I wake up earlier than my alarm through this week, lol.
+2. 5.4km. 这周实验室的作息是朝九晚十一乘以七，除去两个下午睡觉外。因为寝室和实验室都在五楼，正常来回运动量为每天20层楼 + 4km走路。勉勉强强算另一个workout。Plus, 电路硬件调试基本完成，花了一周，效率还是低。
+3. 预约失败。我以为我预约了，其实没有。
 
 Zoey's Status:
 1. Cards done https://github.com/zoeyzoey0102/Liberal-Arts/issues/7 Honestly, the first chapter turns out to be a lot beyond my comprehension for now. failed in the attempt to figure out a theoretical framework on this chapter. Yet despite of everything, I was still captivated all along by his aesthetic pursuit as a scholarly man in the world of social science. 
@@ -148,13 +149,17 @@ Zoey's Status:
 3. 3/4 skipped as non-compulsory      
 ******
 
-**Week 6 from 4.10.2017 to 4.17.2017**       
-4/16-17 Zoey coming to Hangzhou! 
+**Week 6 from 4.10.2017 to ~~4.17.2017~~ 4.19.2017**  
+This week extended to make up the no-study weekend because...   
+4/16-17 Zoey coming to Hangzhou!    
+!!!!!!
 
 Imagine's resolution:        
 
-
-
+1. Do not take smart phone to bed, especially when lights off.
+2. Workout 2 times.
+3. Ready for two small exams.
+4. 选读书目：《人类简史》 《马奇论管理》
 
 Zoey's resolution:
 1. Read *Adaptive Thinking, Rationality in the Real World*, chapter 1/3, wrote 3 cards    
