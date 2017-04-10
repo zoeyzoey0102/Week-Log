@@ -135,4 +135,28 @@ Zoey's resolution:
 1. 精读《马奇论管理》第一部分：马奇论决策制定，写3张卡片
 2. 整理老阳关于时间管理的建议：暗时间利用、创造者时间管理法、心流时间>时间管理、番茄钟-专注+休息简单二元法、多相睡眠    
 3. 《科学史》看着玩，找剩下问题的解答（线索）     
-4. 认知写作班Sunday Meetup
+4. 认知写作班Sunday Meetup      
+
+Imagine's status:       
+
+
+
+
+Zoey's Status:
+1. Cards done https://github.com/zoeyzoey0102/Liberal-Arts/issues/7 Honestly, the first chapter turns out to be a lot beyond my comprehension for now. failed in the attempt to figure out a theoretical framework on this chapter. Yet despite of everything, I was still captivated all along by his aesthetic pursuit as a scholarly man in the world of social science. 
+2. Reconsidering *Time* https://www.douban.com/note/614332843/        
+3. 3/4 skipped as non-compulsory      
+******
+
+**Week 6 from 4.10.2017 to 4.17.2017**       
+4/16-17 Zoey coming to Hangzhou! 
+
+Imagine's resolution:        
+
+
+
+
+Zoey's resolution:
+1. Read *Adaptive Thinking, Rationality in the Real World*, chapter 1/3, wrote 3 cards    
+2. FOCUS on your work  
+3. Squats 3 times at minimum
