@@ -165,3 +165,57 @@ Zoey's resolution:
 1. Read *Adaptive Thinking, Rationality in the Real World* - chapter 1/3, write 3 cards    
 2. FOCUS on your work  
 3. Squats 3 times at minimum
+
+
+
+
+
+
+
+
+
+
+
+# Markdown Grammar Pool  
+
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+- 文本1
+- 文本2
+- 文本3
+1. 文本1
+2. 文本2
+3. 文本3  
+
+链接：  
+[简书](http://www.jianshu.com)  
+
+图片：  
+![](https://avatars2.githubusercontent.com/u/22793523?v=3&s=460)  
+Zoey  
+
+![](https://avatars3.githubusercontent.com/u/7394352?v=3&s=460)  
+Imagine
+
+引用：
+> 一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。  
+
+粗体斜体：
+ *一盏灯*， 一片昏黄；**一简书**  
+ 
+代码引用：
+``` zoey and imagine
+ ```   
+ 
+ 表格：  
+ 
+dog | bird | cat
+----|------|----
+foo | foo  | foo
+bar | bar  | bar
+baz | baz  | baz
+
