@@ -166,10 +166,30 @@ Zoey's resolution:
 2. FOCUS on your work  
 3. Squats 3 times at minimum
 
+**Zoey and Imagine, they confirmed relationship with each other after this week's date !**
+
+Imagine's status:        
+
+1. Do not take smartphone to bed, especially when lights are off. I'm trying, but for about 2 or 3 days I violates the resolution. The most situations are when I was ready for bed but my roommates' talk are not, so I need smartphone to kill time.
+2. Workout 2 times. Done, 6.76km + 5.90km.
+3. Ready for two small exams. Another will be excuted tomorrow, that is the last exam in my study life.
+4. 选读书目：《人类简史》 《马奇论管理》.Done. 《马奇论管理》部分章节需要回读，另，《适应性思维》看了前五章。
+5. Bonus: Kissed Zoey for hours.~~~
+
+Zoey's Status:
 
 
+**Week 7 from 4.20.2017 to 4.26.2017** 
 
+Imagine's resolution:         
 
+1. Sleep well & do not take smartphone to bed.
+2. Workout 2 times. 
+3. Review 《马奇论管理》 & finish 《适应性思维》,  and write one essay if time& inspiration permitted.
+4. Get experiment data.
+5. 参加烂诗人每月读书会
+
+Zoey's resolution:   
 
 
 
