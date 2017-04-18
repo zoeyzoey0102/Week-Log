@@ -178,6 +178,7 @@ Imagine's status:
 
 Zoey's Status:
 
+*****
 
 **Week 7 from 4.20.2017 to 4.26.2017** 
 
@@ -194,7 +195,7 @@ Zoey's resolution:
 
 
 
-
+*****
 
 # Markdown Grammar Pool  
 
