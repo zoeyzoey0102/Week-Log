@@ -177,7 +177,7 @@ Imagine's status:
 4. 选读书目：《人类简史》 《马奇论管理》.Done. 《马奇论管理》部分章节需要回读，另，《适应性思维》看了前五章。
 5. Bonus: Kissed Zoey for hours.~~~
 
-Zoey's Status:
+Zoey's Status:        
 It's been an eventful week both in terms of work and personal life. I've been offered a gracious opportunity to go on a bz trip to the US and am still in the process of Visa application. If everything turns out smoothly, I'll be landing in America no later than 12 May. New York has always been my dream and I know I'll get there some day in the near future. However, I was not as excited as I should have been, because I found myself in love, which was too good to be true and totally beyond my plan. There's been realistic concern, and the two of us may not get the chance to see each other for the upcoming months. But Imagine and I have decided to be committed to this relationship because both of us know we can't afford to lose it.        
 Now that I've got a boyfriend, my work and an ambitous reading schedule to focus on, I need some more time to get re-balanced and figure out a best practice to have everthing get on the right track. 
 *****
