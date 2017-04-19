@@ -165,3 +165,80 @@ Zoey's resolution:
 1. Read *Adaptive Thinking, Rationality in the Real World* - chapter 1/3, write 3 cards    
 2. FOCUS on your work  
 3. Squats 3 times at minimum
+
+**Zoey and Imagine, they confirmed relationship with each other after this week's date !**
+
+Imagine's status:        
+
+1. Do not take smartphone to bed, especially when lights are off. I'm trying, but for about 2 or 3 days I violates the resolution. The most situations are when I was ready for bed but my roommates' talk are not, so I need smartphone to kill time.
+2. Workout 2 times. Done, 6.76km + 5.90km.
+3. Ready for two small exams. Another will be excuted tomorrow, that is the last exam in my study life.
+4. 选读书目：《人类简史》 《马奇论管理》.Done. 《马奇论管理》部分章节需要回读，另，《适应性思维》看了前五章。
+5. Bonus: Kissed Zoey for hours.~~~
+
+Zoey's Status:
+
+*****
+
+**Week 7 from 4.20.2017 to 4.26.2017** 
+
+Imagine's resolution:         
+
+1. Sleep well & do not take smartphone to bed.
+2. Workout 2 times. 
+3. Review 《马奇论管理》 & finish 《适应性思维》,  and write one essay if time& inspiration permitted.
+4. Get experiment data.
+5. 参加烂诗人每月读书会
+
+Zoey's resolution:   
+
+
+
+
+*****
+
+# Markdown Grammar Pool  
+
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+###### 六级标题
+- 文本1
+- 文本2
+- 文本3
+1. 文本1
+2. 文本2
+3. 文本3  
+
+链接：  
+[简书](http://www.jianshu.com)  
+
+图片：  
+![](https://avatars2.githubusercontent.com/u/22793523?v=3&s=460)  
+Zoey  
+
+![](https://avatars3.githubusercontent.com/u/7394352?v=3&s=460)  
+Imagine
+
+引用：
+> 一盏灯， 一片昏黄； 一简书， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。  
+
+粗体斜体：
+ *一盏灯*， 一片昏黄；**一简书**  
+ 
+代码引用：
+
+```  
+zoey and imagine
+```
+ 
+ 表格：  
+ 
+dog | bird | cat
+----|------|----
+foo | foo  | foo
+bar | bar  | bar
+baz | baz  | baz
+
