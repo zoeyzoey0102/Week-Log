@@ -170,14 +170,16 @@ Zoey's resolution:
 
 Imagine's status:        
 
-1. Do not take smartphone to bed, especially when lights are off. I'm trying, but for about 2 or 3 days I violates the resolution. The most situations are when I was ready for bed but my roommates' talk are not, so I need smartphone to kill time.
+1. Do not take smartphone to bed, especially when lights are off. I've tried, but for about 2 or 3 days I just couldn't make it. The most common scenarios are when I was ready for bed, my roommates were not and they kept chatting so I needed my smartphone to kill time.          
+*买个耳塞试试呢？*
 2. Workout 2 times. Done, 6.76km + 5.90km.
 3. Ready for two small exams. Another will be excuted tomorrow, that is the last exam in my study life.
 4. 选读书目：《人类简史》 《马奇论管理》.Done. 《马奇论管理》部分章节需要回读，另，《适应性思维》看了前五章。
 5. Bonus: Kissed Zoey for hours.~~~
 
-Zoey's Status:
-
+Zoey's Status:        
+It's been an eventful week both in terms of work and personal life. I've been offered a gracious opportunity to go on a bz trip to the US and am still in the process of Visa application. If everything turns out smoothly, I'll be landing in America no later than 12 May. New York has always been my dream and I know I'll get there some day in the near future. However, I was not as excited as I should have been, because I found myself in love, which was too good to be true and totally beyond my plan. There's been realistic concern, and the two of us may not get the chance to see each other for the upcoming months. But Imagine and I have decided to be committed to this relationship because both of us know we can't afford to lose it.        
+Now that I've got a boyfriend, my work and an ambitous reading schedule to focus on, I need some more time to get re-balanced and figure out a best practice to have everthing get on the right track. 
 *****
 
 **Week 7 from 4.20.2017 to 4.26.2017** 
@@ -191,8 +193,8 @@ Imagine's resolution:
 5. 参加烂诗人每月读书会
 
 Zoey's resolution:   
-
-
+1. 4/19-20 get prepared for Visa application interview. Will update on the week log afterwards based on the result of the interview (4/21). 
+2. TBD
 
 
 *****
