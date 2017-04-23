@@ -182,7 +182,8 @@ It's been an eventful week both in terms of work and personal life. I've been of
 Now that I've got a boyfriend, my work and an ambitous reading schedule to focus on, I need some more time to get re-balanced and figure out a best practice to have everthing get on the right track. 
 *****
 
-**Week 7 from 4.20.2017 to 4.26.2017** 
+**Week 7 from 4.20.2017 to ~~4.26.2017~~ 5.1.2017**              
+**Imagine coming to SH 4.28-5.1**        
 
 Imagine's resolution:         
 
@@ -193,10 +194,9 @@ Imagine's resolution:
 5. 参加烂诗人每月读书会
 
 Zoey's resolution:   
-1. 4/19-20 get prepared for Visa application interview. Will update on the week log afterwards based on the result of the interview (4/21). 
-2. TBD
-
-
+1. 4/19-20 get prepared for Visa application interview. Will update on the week log afterwards based on the result of the interview (4/21). - thankfully done!       
+2. 泛读《适应性思维》，写卡片至少2张，找反复出现的概念和知识点，和卷毛探讨不理解的地方 
+3. FOCUS ON YOUR WORK. HAPPILY SURVIVE THE MARKETING SUMMIT WEEK at CC!        
 *****
 
 # Markdown Grammar Pool  
