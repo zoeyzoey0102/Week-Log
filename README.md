@@ -202,20 +202,24 @@ Imagine's status:
 This week has witnessed further development in relationship between us. We made our relationship public to close people, our parents and some of our friends. We rented an apartment in Shanghai period at Airbnb and spent almost the whole three days indoor. We hanged in the street, book store, library, mirrors near the washroom and made love at midnight and mid afternoon. We finally have string bracelet as our token of attachment after visiting every ring store near the apartment before Zoey's departure for US for 3 months next week. May Zoey will deserve what she does and have a good time there. May the best wishes to our relationship.
 I did do a lot of efficient work in the weekdays before our meet in Shanghai, certainly mostly the lab work. As so far a good sleeping is still a career to be catched up. Workout output just meets the quota, 4km at 4/20/2017 and 8.26km at 4/24. The book has not been finished and not to say the essay. 读书会没有举行。 And some workload also gived to application matter of the RWTH Aahen Univ. exchange program.
 
-Zoey's Status:    
+Zoey's Status:                            
+focused on work in Changchun and enjoyed every moment shared together with Juanmao. barely any study for this week.     
 
 In ZJU every single semester contains eight weeks, so it looks like one final test is waiting for us. lol.
-**Week 8 from 5.3.2017 to 5.10.2017**        
+**Week 8 from 5.3.2017 to ~~5.10~~ 5.14.2017**       
 
 Imagine's resolution:   
 1. Imeplement controller communication code design and PC GUI software, hope to realize simple data loop between sensor and controller and GUI software.
 2. Sleep well.
 3. Go back home and have a close contact with family.
-4. 1 workout & 1 book & 1 essay.
+4. 1 workout & 1 book & 1 essay.            
+                  
+Zoey's resolution:         
+1. safe and smooth trip to HQ, no glitches please. Get accustomed to the new environment and take good care of yourself for the very first week of this 3-month 'scavenger hunt'.       
+2. make sure your scope of duty for this week is executed as usual, despite all the hustling.               
+3. meditation+go to bed before 10:30 p.m.       
+4. read and study on business e-mails, corporate thought leadership blogs, industrial news...get deeper understanding of products, business, methodologies, cultra (workplace etiquette which you could best learned from senior execs) & business writing skills.       
 
-Zoey's resolution:   
-
-*****
 
 # Markdown Grammar Pool  
 
