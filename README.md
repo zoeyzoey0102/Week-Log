@@ -203,9 +203,9 @@ This week has witnessed further development in relationship between us. We made 
 I did do a lot of efficient work in the weekdays before our meet in Shanghai, certainly mostly the lab work. As so far a good sleeping is still a career to be catched up. Workout output just meets the quota, 4km at 4/20/2017 and 8.26km at 4/24. The book has not been finished and not to say the essay. 读书会没有举行。 And some workload also gived to application matter of the RWTH Aahen Univ. exchange program.
 
 Zoey's Status:                            
-focused on work in Changchun and enjoyed every moment shared together with Juanmao. barely any study for this week.     
-
-In ZJU every single semester contains eight weeks, so it looks like one final test is waiting for us. lol.
+focused on work in Changchun and enjoyed every moment shared together with Juanmao. barely any study for this week.             
+*****
+In ZJU every single semester contains eight weeks, so it looks like one final test is waiting for us. lol.             
 **Week 8 from 5.3.2017 to ~~5.10~~ 5.14.2017**       
 
 Imagine's resolution:   
