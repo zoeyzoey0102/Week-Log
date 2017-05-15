@@ -229,7 +229,7 @@ Zoey's status:
 3. meditation-done; have to go to sleep one or two hours later than usual to overcome jet lag.    
 4. finished a self-assessment on strength development which says my top 5 merits go to intellection, connectedness, learner, input and arranger.
 *****
-**Week 9 from 5.15.2017 to 5.21.2017**
+**Week 9 from 5.15.2017 to 5.21.2017**       
 Imagine's resolution:   
 
 
