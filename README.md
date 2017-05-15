@@ -220,6 +220,26 @@ Zoey's resolution:
 3. meditation+go to bed before 10:30 p.m.       
 4. read and study on business e-mails, corporate thought leadership blogs, industrial news...get deeper understanding of products, business, methodologies, cultra (workplace etiquette which you could best learned from senior execs) & business writing skills.       
 
+Imagine's status:           
+
+
+Zoey's status:      
+1. sound trip, getting used to the weather, tempo and various people here in JC.    
+2. done.     
+3. meditation-done; have to go to sleep one or two hours later than usual to overcome jet lag.    
+4. finished a self-assessment on strength development which says my top 5 merits go to intellection, connectedness, learner, input and arranger.
+*****
+**Week 9 from 5.15.2017 to 5.21.2017**
+Imagine's resolution:   
+
+
+Zoey's resolution:   
+1. have a rewarding D.C summit trip-get connected and don't miss a chance to speak out and speak up-**write a summary**        
+2. prep up for NYC tour     
+3. eat healthily and get enough rest with constant meditation        
+
+
+
 
 # Markdown Grammar Pool  
 
