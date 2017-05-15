@@ -203,9 +203,9 @@ This week has witnessed further development in relationship between us. We made 
 I did do a lot of efficient work in the weekdays before our meet in Shanghai, certainly mostly the lab work. As so far a good sleeping is still a career to be catched up. Workout output just meets the quota, 4km at 4/20/2017 and 8.26km at 4/24. The book has not been finished and not to say the essay. 读书会没有举行。 And some workload also gived to application matter of the RWTH Aahen Univ. exchange program.
 
 Zoey's Status:                            
-focused on work in Changchun and enjoyed every moment shared together with Juanmao. barely any study for this week.     
-
-In ZJU every single semester contains eight weeks, so it looks like one final test is waiting for us. lol.
+focused on work in Changchun and enjoyed every moment shared together with Juanmao. barely any study for this week.             
+*****
+In ZJU every single semester contains eight weeks, so it looks like one final test is waiting for us. lol.             
 **Week 8 from 5.3.2017 to ~~5.10~~ 5.14.2017**       
 
 Imagine's resolution:   
@@ -219,6 +219,26 @@ Zoey's resolution:
 2. make sure your scope of duty for this week is executed as usual, despite all the hustling.               
 3. meditation+go to bed before 10:30 p.m.       
 4. read and study on business e-mails, corporate thought leadership blogs, industrial news...get deeper understanding of products, business, methodologies, cultra (workplace etiquette which you could best learned from senior execs) & business writing skills.       
+
+Imagine's status:           
+
+
+Zoey's status:      
+1. sound trip, getting used to the weather, tempo and various people here in JC.    
+2. done.     
+3. meditation-done; have to go to sleep one or two hours later than usual to overcome jet lag.    
+4. finished a self-assessment on strength development which says my top 5 merits go to intellection, connectedness, learner, input and arranger.
+*****
+**Week 9 from 5.15.2017 to 5.21.2017**       
+Imagine's resolution:   
+
+
+Zoey's resolution:   
+1. have a rewarding D.C summit trip-get connected and don't miss a chance to speak out and speak up-**write a summary**        
+2. prep up for NYC tour     
+3. eat healthily and get enough rest with constant meditation        
+
+
 
 
 # Markdown Grammar Pool  
