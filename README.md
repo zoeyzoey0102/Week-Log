@@ -221,7 +221,10 @@ Zoey's resolution:
 4. read and study on business e-mails, corporate thought leadership blogs, industrial news...get deeper understanding of products, business, methodologies, cultra (workplace etiquette which you could best learned from senior execs) & business writing skills.       
 
 Imagine's status:           
-
+1. Still struggle on Ethernet communication implementation since confused by many ethernet protocols especially TCP/IP stack which turns out to be unnecessary for my application. No GUI work. Controller hardware ready.
+2. Outperformed.
+3. Outperformed, hugs and comfortable talks with my family with topic mainly lies on the relationship between huahua and I.
+4. No workout, OMG. One book 《乡村经济》. One essay draft, not been put.
 
 Zoey's status:      
 1. sound trip, getting used to the weather, tempo and various people here in JC.    
@@ -231,7 +234,9 @@ Zoey's status:
 *****
 **Week 9 from 5.15.2017 to 5.21.2017**       
 Imagine's resolution:   
-
+1. Implement ethernet communication based on UDP protocol stack and GUI interface.
+2. Sleep well and necessary workout warmup before this Saturday's paddle game.
+3. Happy univeristy anniversary.
 
 Zoey's resolution:   
 1. have a rewarding D.C summit trip-get connected and don't miss a chance to speak out and speak up-**write a summary**        
