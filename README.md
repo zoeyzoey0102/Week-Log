@@ -243,8 +243,37 @@ Zoey's resolution:
 2. prep up for NYC tour     
 3. eat healthily and get enough rest with constant meditation        
 
+Imagine's status:           
+1. Draft work done about ethernet and gui interface, further polish work need to be executed.
+2. One workout but a better rest could be possessed.
+3. So so, regarding the festival's inconvenience for students. The annual music festival was the only thing I enjoyed.
 
+Zoey's status:      
 
+*****
+**Week 10 from 5.22.2017 to 6.4.2017**       
+Imagine's resolution:   
+1. One swimming this week.
+2. Work, work, work. Study, study, study.
+3. One book if this week's meeting turns out fine.
+
+Zoey's resolution:   
+
+Imagine's status: 
+1. Swimming? Not even once.
+2. Struggle on hardware debug, luckily this stage is about to finish.
+3. 3 books, 《乡土中国》 《中国历代政治得失》 《天朝的崩溃》
+
+Zoey's status:     
+
+*****
+**Week 11 from 6.5.2017 to 6.12.2017**       
+Imagine's resolution:   
+1. Finish 70% work on controller.
+2. Enjoy the massage and huoguan.
+3. Finish TV series "The People V OJ Simpson"
+
+Zoey's resolution:   
 
 # Markdown Grammar Pool  
 
