@@ -275,6 +275,15 @@ Imagine's resolution:
 
 Zoey's resolution:   
 
+*****
+**Week 12 from 6.26.2017 to 7.2.2017**       
+Imagine's resolution:   
+1. 《伯罗奔尼撒战争史》
+2. A brief review into deep learning.
+3. lab work, lcd showing the measuring data.
+
+Zoey's resolution:  
+
 # Markdown Grammar Pool  
 
 # 一级标题
